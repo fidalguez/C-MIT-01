@@ -5,8 +5,8 @@
  Simple hello, World!
  
  Created by vjfidalgo on 03-JUL-2018
- 
- gcc -g -O0 -Wall hello.c -o hello.o
+
+ Command: gcc -g -O0 -Wall hello.c -o hello.o
  
  */ 
 
